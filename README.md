@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Junior-- | Python and more
+### Junior-- | Python and more
 Theres’s a lot more ahead…
 
 
