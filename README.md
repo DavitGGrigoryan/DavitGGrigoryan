@@ -1,6 +1,6 @@
 # 💫 About Me:
-Junior-- | Python and more…
-There’s a lot more ahead…
+# Junior-- | Python and more…
+Theres’s a lot more ahead…
 
 
 # 💻 Tech Stack:
