@@ -1,6 +1,6 @@
-![Heno](https://avatars.mds.yandex.net/i?id=37ddf61040682b57c24c733b94eb7caa-5220968-images-thumbs&n=13)
-
-# Junior-- | Python and more...<br>There's a lot more ahead...
+# 💫 About Me:
+Junior-- | Python and more…
+There’s a lot more ahead…
 
 
 # 💻 Tech Stack:
@@ -15,5 +15,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DavitGGrigoryan&icon=9&color=0)](https://visitcount.itsvg.in)
+
+![YEAH](https://avatars.mds.yandex.net/i?id=37ddf61040682b57c24c733b94eb7caa-5220968-images-thumbs&n=13)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
