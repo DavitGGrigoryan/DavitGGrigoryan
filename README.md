@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Junior-- | Python and more
+### Backend Programmer
 Theres’s a lot more ahead
 
 
