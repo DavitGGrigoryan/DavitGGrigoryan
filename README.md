@@ -1,6 +1,5 @@
 # 💫 About Me:
 ### Backend Programmer
-Theres’s a lot more ahead
 
 
 # 💻 Tech Stack:
